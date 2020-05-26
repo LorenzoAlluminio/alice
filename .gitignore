@@ -16,3 +16,8 @@
 
 coverage.txt
 profile.out
+
+example/example
+example/dkg/id-10001-output.yaml
+example/dkg/id-10002-output.yaml
+example/dkg/id-10003-output.yaml
