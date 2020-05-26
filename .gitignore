@@ -21,3 +21,6 @@ example/example
 example/dkg/id-10001-output.yaml
 example/dkg/id-10002-output.yaml
 example/dkg/id-10003-output.yaml
+example/signer/id-10001-output.yaml
+example/signer/id-10002-output.yaml
+example/signer/id-10003-output.yaml
