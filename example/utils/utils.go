@@ -41,7 +41,7 @@ func GetPeerIDFromPort(port int64) string {
 // GetCurve returns the curve we used in this example.
 func GetCurve() elliptic.Curve {
 	// For simplicity, we use S256 curve.
-	return btcec.S256()
+	return elliptic.P256()
 }
 
 // ConvertDKGResult converts DKG result from config.
